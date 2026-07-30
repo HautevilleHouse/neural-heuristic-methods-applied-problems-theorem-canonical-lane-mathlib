@@ -1,0 +1,9 @@
+import neural_heuristic_methods_applied_problems_theorem_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace neural_heuristic_methods_applied_problems_theorem_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end neural_heuristic_methods_applied_problems_theorem_canonical_lane_mathlib
+end HautevilleHouse
